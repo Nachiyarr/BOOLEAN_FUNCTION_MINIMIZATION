@@ -51,6 +51,9 @@ Boolean Algebra is a branch of algebra that deals with boolean values—true and
 *Program:*
 
  Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
+
+
+ 
  Developed by:Alagu Nachiyar K
  Register no:212222240006
 
